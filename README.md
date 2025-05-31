@@ -2,13 +2,15 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
+<p align="center">
+  <h3 align="center">
   Hi, I'm Matthew Gale
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Quantitative%20Developer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;"></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Quantitative+Developer;Always+learning+new+things!;Fiercely+creative+and+entrepenurial!;&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
