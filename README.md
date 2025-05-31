@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, Matthew Gale
+  Hi, I'm Matthew Gale
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -78,9 +78,3 @@
         </td>
     </tr>
 </table>
-
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgale694&theme=react-dark" />
-    </a>
-</div>
